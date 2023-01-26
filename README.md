@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-  ## 💜 Olá, meu nome é <strong>Fabrício!</strong>
+  ## 💜 Olá, eu sou Fabrício</strong>
 
 
 <p align="left"> 
-    Sou desenvolvedor C# back-end, tenho 24 anos e moro em Barra dos Coqueiros/SE.
+    Atuo como desenvolvedor .NET, tenho mais de 2 anos de experiência em manutenção e modernização de projetos legados.
 </p>
 
 <p align="left">
